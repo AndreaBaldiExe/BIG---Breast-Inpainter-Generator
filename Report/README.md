@@ -1,0 +1,1 @@
+The official Report is available here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jEK0JIGETpPRvjo7vMaf-Ix4AsdFmWB4?usp=sharing). It follows the given guidelines for this project report.
