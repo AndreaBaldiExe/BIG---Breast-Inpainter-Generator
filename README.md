@@ -8,7 +8,7 @@ Course: Neural Networks A.Y. 2025/2026.
 
 Repo Organization:
 
-Code: includes a notebook used for BIG implementation and a Python script to preprocess data. 
+Code: includes a notebook used for BIG implementation and a Python script to preprocess data. The original notebook is availeble via link. 
 
 Report: includes a notebook-like report of this project.
 
