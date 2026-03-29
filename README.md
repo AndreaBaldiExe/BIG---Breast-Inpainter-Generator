@@ -12,4 +12,4 @@ Code: includes a notebook used for BIG implementation and a Python script to pre
 
 Report: includes a notebook-like report of this project.
 
-Presentation Slide: contains slides for oral examination. 
+Presentation: contains slides for oral examination. 
