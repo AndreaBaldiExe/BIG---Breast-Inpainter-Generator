@@ -7,6 +7,9 @@ Author: Andrea Baldi, La Sapienza Univeristy of Rome, student id: 1966232.
 Course: Neural Networks A.Y. 2025/2026.
 
 Repo Organization:
+
 Code: includes a notebook used for BIG implementation and a Python script to preprocess data. 
+
 Report: includes a notebook-like report of this project.
+
 Presentation Slide: contains slides for oral examination. 
